@@ -95,7 +95,7 @@ In CI, this is available as an **artifact** in the workflow summary.
 **Chathudya Jayawardana**  
 *QA Engineer | Automation Enthusiast | Builder of Smart Test Suites*
 
-📢 Connect: [LinkedIn](https://www.linkedin.com/in/your-profile)
+📢 Connect: [LinkedIn](https://www.linkedin.com/in/chathudya/)
 
 ---
 

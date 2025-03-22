@@ -23,6 +23,9 @@ export class LoginPage {
   }
 
   async getErrorMessage() {
-    return this.page.textContent(this.errorMessage);
+    const errorLocator = this.page.locator(this.errorMessage);
+    await errorLocator.waitFor({ state: 'visible' });
+    return await errorLocator.textContent(); 
   }
+  
 }
